@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
+using System.ComponentModel.DataAnnotations.Schema;
 namespace Banka.Models
 
 {
@@ -12,6 +12,7 @@ namespace Banka.Models
         public int Pib { get; set; }
 
         public ICollection<Filijala> Filijals { get; set; }
+
 
     }
 }

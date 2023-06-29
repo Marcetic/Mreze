@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Milos\source\repos\Mreze\Banka\Banka
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/Banka/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/Filijala/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWphbGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/Korisnik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/Usluga/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNsdWdhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Milos/source/repos/Mreze/Banka/Banka/Views/_ViewImports.cshtml]

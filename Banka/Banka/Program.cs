@@ -20,6 +20,8 @@ if (args.Length == 1 && args[0].ToLower() == "seeddata")
 
 
 
+
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
