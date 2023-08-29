@@ -1,0 +1,48 @@
+﻿@model BankaProjekat.Models.ViewModels.AddKorisnik
+@{
+}
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h1> Add New Tag - Gradovi Funkcionalnost</h1>
+    </div>
+</div>
+
+<div class="container py-5">
+    <form method="post">
+
+        <div class="mb-3">
+            <label class="form-label">Ime</label>
+            <input type="text" class="form-control" asp-for="Ime" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Prezime</label>
+            <input type="text" class="form-control" asp-for="Prezime" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Maticni broj</label>
+            <input type="text" class="form-control" asp-for="MaticniBroj" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="text" class="form-control" asp-for="Email" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Username</label>
+            <input type="text" class="form-control" asp-for="Username" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Password</label>
+            <input type="text" class="form-control" asp-for="Password" />
+        </div>
+
+        <div class="mb-3">
+            <button type="submit" class="btn btn-dark">Add</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,47 @@
+﻿@model List<BankaProjekat.Models.Korisnik>
+@{
+}
+       
+<h1>Korisnici</h1>
+
+
+
+<table class="table">
+    
+    
+        
+    
+
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>Maticni Broj</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var korisnik in Model)
+        {
+            <tr>
+                <td>@korisnik.Id </td>
+                <td>@korisnik.Ime </td>
+                <td>@korisnik.Prezime </td>
+                <td>@korisnik.MaticniBroj </td>
+                <td><a href="Update/@korisnik.Id">Update</a></td>
+            </tr>
+        }
+    </tbody>
+    
+</table>
+
+<ul class="form-inline mt-2 mt-md-0">
+    <a class="btn btn-outline-success my-2 my-sm-0" role="button"
+       asp-area=""
+       asp-controller="Korisnik"
+       asp-action="Add" type="submit">
+        Add
+
+    </a>
+</ul>
+

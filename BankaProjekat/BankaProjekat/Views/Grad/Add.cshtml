@@ -1,0 +1,33 @@
+﻿@model BankaProjekat.Models.ViewModels.AddFilijalaRequest
+@{
+}
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h1> Dodaj novu filijalu</h1>
+    </div>
+</div>
+
+<div class="container py-5">
+    <form method="post">
+
+        <div class="mb-3">
+            <label class="form-label">Banka Id</label>
+            <input type="number" class="form-control" asp-for="BankaId" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Adresa Filijale</label>
+            <input type="text" class="form-control" asp-for="Adresa" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Broj Pultova</label>
+            <input type="number" class="form-control" asp-for="BrojPultova" />
+        </div>
+
+        <div class="mb-3">
+            <button type="submit" class="btn btn-dark">Submit</button>
+        </div>
+    </form>
+</div>

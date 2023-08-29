@@ -94,7 +94,7 @@ namespace Banka.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Korisnik");
+                    b.ToTable("Korisniks");
                 });
 
             modelBuilder.Entity("Banka.Models.Usluga", b =>

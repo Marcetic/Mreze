@@ -1,0 +1,27 @@
+﻿@model List<ProjekatBanka.Models.Korisnik>
+@{
+}
+
+<h1>Korisnici</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>Maticni Broj</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var korisnik in Model)
+        {
+            <tr>
+                <td>@korisnik.Id </td>
+                <td>@korisnik.Ime </td>
+                <td>@korisnik.Prezime </td>
+                <td>@korisnik.MaticniBroj </td>
+            </tr>
+        }
+    </tbody>
+</table>

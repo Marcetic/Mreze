@@ -15,8 +15,16 @@ namespace Banka.Data
 
         public DbSet<Usluga>Uslugas { get; set; }
 
+        public DbSet<Korisnik> Korisniks { get; set; }
+
+        
 
 
 
     }
-}
+
+
+
+
+    }
+

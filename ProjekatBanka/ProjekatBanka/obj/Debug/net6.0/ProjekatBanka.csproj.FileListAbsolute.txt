@@ -1,0 +1,5 @@
+C:\Users\Milos\source\repos\Mreze\ProjekatBanka\ProjekatBanka\obj\Debug\net6.0\ProjekatBanka.csproj.AssemblyReference.cache
+C:\Users\Milos\source\repos\Mreze\ProjekatBanka\ProjekatBanka\obj\Debug\net6.0\ProjekatBanka.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\Mreze\ProjekatBanka\ProjekatBanka\obj\Debug\net6.0\ProjekatBanka.AssemblyInfo.cs
+C:\Users\Milos\source\repos\Mreze\ProjekatBanka\ProjekatBanka\obj\Debug\net6.0\ProjekatBanka.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\Mreze\ProjekatBanka\ProjekatBanka\obj\Debug\net6.0\ProjekatBanka.MvcApplicationPartsAssemblyInfo.cache

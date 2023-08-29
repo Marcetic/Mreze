@@ -1,0 +1,8 @@
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.csproj.AssemblyReference.cache
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.AssemblyInfo.cs
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.RazorAssemblyInfo.cache
+C:\Users\Milos\source\repos\Mreze\Banka\Banka\obj\Debug\net6.0\BankaProjekat.RazorAssemblyInfo.cs
